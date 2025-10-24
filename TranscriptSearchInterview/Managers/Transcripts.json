@@ -1,0 +1,674 @@
+[
+    {
+        "id": "A001-2024-0801-001",
+        "text": "Starting my new job at TechFlow today! Wish me luck 🤞",
+        "date": "2024-08-01T07:30:00Z",
+        "application": "Messages",
+        "windowName": "Mom"
+    },
+    {
+        "id": "A002-2024-0801-002",
+        "text": "omg so nervous",
+        "date": "2024-08-01T07:32:00Z",
+        "application": "Messages",
+        "windowName": "Mom"
+    },
+    {
+        "id": "A003-2024-0801-003",
+        "text": "Hey Alex! I'm the new frontend developer. Looking forward to working with you!",
+        "date": "2024-08-01T09:15:00Z",
+        "application": "Slack",
+        "windowName": "#introductions"
+    },
+    {
+        "id": "A004-2024-0801-004",
+        "text": "Welcome to the team! Don't worry, we don't bite 😄 Sarah will show you around and get you set up with everything. If you need anything at all - and I mean anything, even if it seems silly - just ping me or anyone on the dev team. We've all been the new person before and know how overwhelming the first few days can be. There's a lot to learn but you'll pick it up quickly!",
+        "date": "2024-08-01T09:18:00Z",
+        "application": "Slack",
+        "windowName": "#introductions"
+    },
+    {
+        "id": "A005-2024-0801-005",
+        "text": "thanks!!",
+        "date": "2024-08-01T09:19:00Z",
+        "application": "Slack",
+        "windowName": "#introductions"
+    },
+    {
+        "id": "A006-2024-0801-006",
+        "text": "Hi! I'm Sarah, the other frontend dev. Ready for the grand tour?",
+        "date": "2024-08-01T10:00:00Z",
+        "application": "Slack",
+        "windowName": "Sarah Kim"
+    },
+    {
+        "id": "A007-2024-0801-007",
+        "text": "yes!",
+        "date": "2024-08-01T10:01:00Z",
+        "application": "Slack",
+        "windowName": "Sarah Kim"
+    },
+    {
+        "id": "A008-2024-0801-008",
+        "text": "so that's the kitchen, bathrooms are down that hall, and this is your desk! Your monitor should be delivered this afternoon but you can use the laptop for now. Coffee machine is temperamental - hit it twice on the side if it's not working. Oh and avoid the leftover pizza in the fridge, it's been there since Tuesday and today is Thursday so... yeah. Any questions?",
+        "date": "2024-08-01T10:15:00Z",
+        "application": "Slack",
+        "windowName": "Sarah Kim"
+    },
+    {
+        "id": "A009-2024-0801-009",
+        "text": "haha noted about the pizza",
+        "date": "2024-08-01T10:16:00Z",
+        "application": "Slack",
+        "windowName": "Sarah Kim"
+    },
+    {
+        "id": "A010-2024-0801-010",
+        "text": "lunch in 20 if you want to join? going to that sandwich place across the street",
+        "date": "2024-08-01T11:40:00Z",
+        "application": "Slack",
+        "windowName": "Sarah Kim"
+    },
+    {
+        "id": "A011-2024-0801-011",
+        "text": "sure!",
+        "date": "2024-08-01T11:41:00Z",
+        "application": "Slack",
+        "windowName": "Sarah Kim"
+    },
+    {
+        "id": "A012-2024-0801-012",
+        "text": "First day went well! Team seems really nice. Sarah showed me around and we had lunch together. Everyone's super helpful and welcoming. I think I'm going to like it here! Already feeling less nervous about tomorrow.",
+        "date": "2024-08-01T18:45:00Z",
+        "application": "Messages",
+        "windowName": "Mom"
+    },
+    {
+        "id": "A013-2024-0801-013",
+        "text": "That's wonderful honey! I'm so proud of you",
+        "date": "2024-08-01T18:50:00Z",
+        "application": "Messages",
+        "windowName": "Mom"
+    },
+    {
+        "id": "A014-2024-0801-014",
+        "text": "thanks mom ❤️",
+        "date": "2024-08-01T18:51:00Z",
+        "application": "Messages",
+        "windowName": "Mom"
+    },
+    {
+        "id": "A015-2024-0801-015",
+        "text": "btw still on for dinner Sunday?",
+        "date": "2024-08-01T18:52:00Z",
+        "application": "Messages",
+        "windowName": "Mom"
+    },
+    {
+        "id": "A016-2024-0801-016",
+        "text": "Of course! Making your favorite lasagna",
+        "date": "2024-08-01T18:53:00Z",
+        "application": "Messages",
+        "windowName": "Mom"
+    },
+    {
+        "id": "A017-2024-0801-017",
+        "text": "yesss 🤤",
+        "date": "2024-08-01T18:53:00Z",
+        "application": "Messages",
+        "windowName": "Mom"
+    },
+    {
+        "id": "A018-2024-0801-018",
+        "text": "how was day one?",
+        "date": "2024-08-01T20:15:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A019-2024-0801-019",
+        "text": "really good actually! way better than I expected. everyone's super nice and I don't feel completely lost which is a win",
+        "date": "2024-08-01T20:18:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A020-2024-0801-020",
+        "text": "told you it would be fine 😊",
+        "date": "2024-08-01T20:20:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A021-2024-0801-021",
+        "text": "yeah yeah you were right",
+        "date": "2024-08-01T20:21:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A022-2024-0801-022",
+        "text": "want to celebrate with takeout?",
+        "date": "2024-08-01T20:22:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A023-2024-0801-023",
+        "text": "thai food?",
+        "date": "2024-08-01T20:23:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A024-2024-0801-024",
+        "text": "perfect",
+        "date": "2024-08-01T20:23:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A025-2024-0802-001",
+        "text": "morning!",
+        "date": "2024-08-02T08:30:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A026-2024-0802-002",
+        "text": "Can you help me set up my development environment? Having trouble with Docker and the readme is a bit confusing",
+        "date": "2024-08-02T10:30:00Z",
+        "application": "Slack",
+        "windowName": "Alex Chen"
+    },
+    {
+        "id": "A027-2024-0802-003",
+        "text": "Of course! Docker can be tricky at first. Are you getting a specific error message or is it just not starting up at all? Also, are you on Mac or PC? The setup is slightly different",
+        "date": "2024-08-02T10:35:00Z",
+        "application": "Slack",
+        "windowName": "Alex Chen"
+    },
+    {
+        "id": "A028-2024-0802-004",
+        "text": "Mac, and it's saying something about port 3000 already being in use but I don't have anything running",
+        "date": "2024-08-02T10:40:00Z",
+        "application": "Slack",
+        "windowName": "Alex Chen"
+    },
+    {
+        "id": "A029-2024-0802-005",
+        "text": "ah classic issue! try running `lsof -ti:3000 | xargs kill -9` in your terminal first, then try docker-compose up again. Sometimes processes don't shut down cleanly and keep the port occupied",
+        "date": "2024-08-02T10:42:00Z",
+        "application": "Slack",
+        "windowName": "Alex Chen"
+    },
+    {
+        "id": "A030-2024-0802-006",
+        "text": "that worked! thanks so much",
+        "date": "2024-08-02T10:45:00Z",
+        "application": "Slack",
+        "windowName": "Alex Chen"
+    },
+    {
+        "id": "A031-2024-0802-007",
+        "text": "no problem! happens to everyone",
+        "date": "2024-08-02T10:46:00Z",
+        "application": "Slack",
+        "windowName": "Alex Chen"
+    },
+    {
+        "id": "A032-2024-0802-008",
+        "text": "lunch crew assembling in 5 minutes!",
+        "date": "2024-08-02T12:25:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A033-2024-0802-009",
+        "text": "where we going?",
+        "date": "2024-08-02T12:26:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A034-2024-0802-010",
+        "text": "that new poke place!",
+        "date": "2024-08-02T12:26:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A035-2024-0802-011",
+        "text": "count me in",
+        "date": "2024-08-02T12:27:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A036-2024-0802-012",
+        "text": "Thanks for the help earlier! Docker is finally working and I can see the app running locally. This is so much better than my old job where I spent three days just trying to get the environment set up lol",
+        "date": "2024-08-02T15:20:00Z",
+        "application": "Slack",
+        "windowName": "Alex Chen"
+    },
+    {
+        "id": "A037-2024-0802-013",
+        "text": "haha yeah we try to keep the setup pain to a minimum here. wait until you see our deployment process - it's actually fun!",
+        "date": "2024-08-02T15:25:00Z",
+        "application": "Slack",
+        "windowName": "Alex Chen"
+    },
+    {
+        "id": "A038-2024-0802-014",
+        "text": "deployment... fun? now I'm curious",
+        "date": "2024-08-02T15:26:00Z",
+        "application": "Slack",
+        "windowName": "Alex Chen"
+    },
+    {
+        "id": "A039-2024-0802-015",
+        "text": "you'll see 😉",
+        "date": "2024-08-02T15:27:00Z",
+        "application": "Slack",
+        "windowName": "Alex Chen"
+    },
+    {
+        "id": "A040-2024-0802-016",
+        "text": "grocery run after work - need anything?",
+        "date": "2024-08-02T17:30:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A041-2024-0802-017",
+        "text": "ooh yes! we're out of coffee and I will die without it tomorrow morning",
+        "date": "2024-08-02T17:45:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A042-2024-0802-018",
+        "text": "dramatic much? 😂",
+        "date": "2024-08-02T17:46:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A043-2024-0802-019",
+        "text": "you know me and mornings without caffeine",
+        "date": "2024-08-02T17:47:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A044-2024-0802-020",
+        "text": "true, I've seen you pre-coffee. getting the good stuff from whole foods",
+        "date": "2024-08-02T17:48:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A045-2024-0802-021",
+        "text": "you're the best ❤️",
+        "date": "2024-08-02T17:49:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A046-2024-0803-001",
+        "text": "ugh overslept",
+        "date": "2024-08-03T08:45:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A047-2024-0803-002",
+        "text": "running late but will be there by 9:30",
+        "date": "2024-08-03T08:46:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A048-2024-0803-003",
+        "text": "no worries! happens to everyone",
+        "date": "2024-08-03T08:50:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A049-2024-0803-004",
+        "text": "coffee machine is fixed btw - no more hitting required",
+        "date": "2024-08-03T09:15:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A050-2024-0803-005",
+        "text": "thank god",
+        "date": "2024-08-03T09:35:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A051-2024-0805-001",
+        "text": "Coffee after work? I want to hear about your weekend trip to Tahoe - saw your pics on insta and they looked amazing!",
+        "date": "2024-08-05T16:00:00Z",
+        "application": "Messages",
+        "windowName": "Sarah Kim"
+    },
+    {
+        "id": "A052-2024-0805-002",
+        "text": "Absolutely! Meet at Blue Bottle at 6? And yeah it was incredible, the weather was perfect and the lake was so clear you could see all the way to the bottom",
+        "date": "2024-08-05T16:05:00Z",
+        "application": "Messages",
+        "windowName": "Sarah Kim"
+    },
+    {
+        "id": "A053-2024-0805-003",
+        "text": "perfect! see you there",
+        "date": "2024-08-05T16:06:00Z",
+        "application": "Messages",
+        "windowName": "Sarah Kim"
+    },
+    {
+        "id": "A054-2024-0805-004",
+        "text": "going for coffee with Sarah, be back around 8",
+        "date": "2024-08-05T17:45:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A055-2024-0805-005",
+        "text": "have fun! I'll be here watching netflix and eating ice cream straight from the container like a responsible adult",
+        "date": "2024-08-05T17:50:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A056-2024-0805-006",
+        "text": "living the dream 😂",
+        "date": "2024-08-05T17:51:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A057-2024-0806-001",
+        "text": "Working on the user authentication feature. Should be ready for review tomorrow. It's more complex than I initially thought - lots of edge cases to handle around password reset flows and email verification",
+        "date": "2024-08-06T14:30:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A058-2024-0806-002",
+        "text": "auth is always trickier than it looks on the surface. take your time to get it right!",
+        "date": "2024-08-06T14:45:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A059-2024-0806-003",
+        "text": "yeah learning that the hard way lol",
+        "date": "2024-08-06T14:46:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A060-2024-0806-004",
+        "text": "if you get stuck on anything just shout - I've been down that rabbit hole before",
+        "date": "2024-08-06T15:00:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A061-2024-0806-005",
+        "text": "thanks Alex!",
+        "date": "2024-08-06T15:01:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A062-2024-0807-001",
+        "text": "PR #127 is ready for review - added login/signup flows with email verification, password reset, and proper error handling. Also added tests for the happy path and most edge cases I could think of",
+        "date": "2024-08-07T11:00:00Z",
+        "application": "GitHub",
+        "windowName": "Pull Request #127"
+    },
+    {
+        "id": "A063-2024-0807-002",
+        "text": "nice! will take a look this afternoon",
+        "date": "2024-08-07T11:15:00Z",
+        "application": "GitHub",
+        "windowName": "Pull Request #127"
+    },
+    {
+        "id": "A064-2024-0807-003",
+        "text": "Code looks good overall! Really nice work on the error handling. Just one small suggestion about the password validation - might want to add a bit more specific feedback for users when their password doesn't meet requirements. Otherwise this is solid!",
+        "date": "2024-08-07T14:15:00Z",
+        "application": "GitHub",
+        "windowName": "Pull Request #127"
+    },
+    {
+        "id": "A065-2024-0808-001",
+        "text": "Thanks Alex! Fixed the password validation feedback. Added specific messages for minimum length, special characters, etc. Ready to merge?",
+        "date": "2024-08-08T09:30:00Z",
+        "application": "GitHub",
+        "windowName": "Pull Request #127"
+    },
+    {
+        "id": "A066-2024-0808-002",
+        "text": "perfect! merging now",
+        "date": "2024-08-08T09:45:00Z",
+        "application": "GitHub",
+        "windowName": "Pull Request #127"
+    },
+    {
+        "id": "A067-2024-0808-003",
+        "text": "woo! first feature complete 🎉",
+        "date": "2024-08-08T09:46:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A068-2024-0808-004",
+        "text": "great work!",
+        "date": "2024-08-08T09:50:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A069-2024-0808-005",
+        "text": "thanks! feels good to contribute something real",
+        "date": "2024-08-08T09:51:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A070-2024-0812-001",
+        "text": "Team lunch on Friday to celebrate shipping the auth feature! I'm thinking that new Mediterranean place downtown?",
+        "date": "2024-08-12T12:00:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A071-2024-0812-002",
+        "text": "yes! heard great things about their hummus",
+        "date": "2024-08-12T12:05:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A072-2024-0812-003",
+        "text": "count me in",
+        "date": "2024-08-12T12:06:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A073-2024-0812-004",
+        "text": "I'm in too! what time?",
+        "date": "2024-08-12T12:10:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A074-2024-0812-005",
+        "text": "12:30?",
+        "date": "2024-08-12T12:11:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A075-2024-0812-006",
+        "text": "perfect",
+        "date": "2024-08-12T12:12:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A076-2024-0813-001",
+        "text": "reminder: team lunch tomorrow at 12:30 at Olive & Thyme!",
+        "date": "2024-08-13T16:30:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A077-2024-0816-001",
+        "text": "Great team lunch! Thanks for organizing Sarah. The food was amazing and it was nice to chat with everyone outside of work stuff",
+        "date": "2024-08-16T15:30:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A078-2024-0816-002",
+        "text": "agreed! we should do this more often",
+        "date": "2024-08-16T15:35:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A079-2024-0816-003",
+        "text": "definitely! maybe monthly?",
+        "date": "2024-08-16T15:36:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A080-2024-0816-004",
+        "text": "I like that idea",
+        "date": "2024-08-16T15:37:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A081-2024-0819-001",
+        "text": "Working from home today - plumber coming to fix the kitchen sink. Should be online most of the day though!",
+        "date": "2024-08-19T08:00:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A082-2024-0819-002",
+        "text": "no problem! let us know if you need anything",
+        "date": "2024-08-19T08:15:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A083-2024-0819-003",
+        "text": "plumber just arrived, might be offline for a bit while he works",
+        "date": "2024-08-19T09:30:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A084-2024-0819-004",
+        "text": "back online! sink is fixed and working better than ever",
+        "date": "2024-08-19T11:45:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A085-2024-0819-005",
+        "text": "nice! nothing like a properly working sink",
+        "date": "2024-08-19T11:50:00Z",
+        "application": "Slack",
+        "windowName": "#general"
+    },
+    {
+        "id": "A086-2024-0820-001",
+        "text": "Can you pick up some groceries on your way home? I'm stuck at work late debugging this really weird issue where the login works fine on desktop but fails intermittently on mobile. It's driving me crazy because I can't reproduce it consistently",
+        "date": "2024-08-20T17:45:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A087-2024-0820-002",
+        "text": "Sure thing! Need anything specific besides the usual? And that sounds frustrating - mobile bugs are the worst",
+        "date": "2024-08-20T17:48:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A088-2024-0820-003",
+        "text": "Maybe some ice cream? Long day... And yeah it only happens on certain Android devices apparently. iOS is fine, desktop is fine, but some random Android phones just... nope",
+        "date": "2024-08-20T17:50:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A089-2024-0820-004",
+        "text": "ice cream acquired! getting the good stuff. hope you figure out the mobile thing soon",
+        "date": "2024-08-20T18:30:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A090-2024-0820-005",
+        "text": "you're amazing ❤️ heading home in 20",
+        "date": "2024-08-20T18:45:00Z",
+        "application": "Messages",
+        "windowName": "Jamie Wilson"
+    },
+    {
+        "id": "A091-2024-0821-001",
+        "text": "Sprint planning meeting moved to 2 PM - conference room A. The morning meeting ran long because we had to discuss the mobile login bug",
+        "date": "2024-08-21T10:15:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A092-2024-0821-002",
+        "text": "any progress on that bug?",
+        "date": "2024-08-21T10:30:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A093-2024-0821-003",
+        "text": "think I found it! it's a timing issue with the API calls. some slower connections were timing out before the auth token got set properly",
+        "date": "2024-08-21T10:45:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A094-2024-0821-004",
+        "text": "ah the classic race condition",
+        "date": "2024-08-21T10:46:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A095-2024-0821-005",
+        "text": "exactly! adding proper loading states and retry logic now",
+        "date": "2024-08-21T10:47:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    },
+    {
+        "id": "A096-2024-0821-006",
+        "text": "nice detective work!",
+        "date": "2024-08-21T10:48:00Z",
+        "application": "Slack",
+        "windowName": "#dev-team"
+    }
+]
